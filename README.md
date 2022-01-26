@@ -1,5 +1,6 @@
 # Android Ürün Tanıtımı
 
+Bu uygulama bir şirketin ürün tanıtımlarını yaparak, kullanıcıdan gelen siparişleri servis aracılığıyla alır ve ürünün müşteriye gönderimini yapar.
 
 <p>
   
