@@ -2,6 +2,11 @@
 
 Bu uygulama bir şirketin ürün tanıtımlarını yaparak, kullanıcıdan gelen siparişleri servis aracılığıyla alır ve ürünün müşteriye gönderimini yapar.
 
+
+
+[![](https://img.shields.io/badge/2.9.0-Retrofit-brightgreen)](https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit)
+
+
 <p>
   
 <a href="https://github.com/KursatErcan/AndroidUrunTanitimi/blob/main/app_images/login.jpeg" target="_blank">
